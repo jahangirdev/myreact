@@ -1,6 +1,8 @@
+import Clock from "./components/Clock";
+
 function App() {
   return (
-    <h1>Hello React!</h1>
+    <Clock locale="bn-BD"/>
   );
 }
 
